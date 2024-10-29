@@ -1,0 +1,10 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Pomodoro App",
+  "main": "server.js",
+  "repository": "https://github.com/Sid-Miram/Teamish-Pomo.git",
+  "author": "[\"Akshit\", \"Aniket\", \"Gouransh\", \"Sid\"]",
+  "license": "MIT",
+  "private": null
+}
